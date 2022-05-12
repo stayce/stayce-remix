@@ -37,7 +37,7 @@ function Document({children}: {
         <Meta />
         <Links />
       </head>
-      <body>
+      <body className="bg-charcoal">
         {children}
         <ScrollRestoration />
         <Scripts />
