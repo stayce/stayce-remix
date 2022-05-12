@@ -10,7 +10,8 @@ import {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "New Remix App",
+  description: "Machine Learning Software Engineer, Interaction and Product Designer, and Serial Entrepreneur",
+  title: "Stayce",
   viewport: "width=device-width,initial-scale=1",
 });
 
