@@ -1,7 +1,9 @@
 export default function Index() {
   return (
-    <div style={{ fontFamily: "system-ui, sans-serif", lineHeight: "1.4" }}>
-      <h1>Hello World!</h1>
-    </div>
+    <div className="container mx-auto bg-charcoal">
+      <h1 className="text-center text-5xl font-light text-gray-200">
+        Hello world!
+      </h1>
+   </div>
   );
 }
