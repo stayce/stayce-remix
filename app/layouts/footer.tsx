@@ -1,9 +1,9 @@
 export default function Footer() {
     return (
       <div className="container mx-auto bg-charcoal">
-        <h1 className="text-center text-5xl font-light text-gray-200">
-          I'm a footer
-        </h1>
+        <p className="text-center font-light text-gray-200">
+          CopyLeft. All rights permitted. Copy this site on github.
+        </p>
      </div>
     );
   }
