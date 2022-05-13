@@ -7,7 +7,7 @@ export default function Layout({children}: {
  return (
   //  Wrap in JSX fragment; JSX expressions must have one parent element.
   <>
-   <header className="border-b">
+   <header>
     <Nav />
    </header>
    <main className="container flex justify-center flex-grow mx-auto">
